@@ -156,6 +156,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "mikekatell",
+      "name": "Michael Katell",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80757940?v=4",
+      "profile": "https://github.com/mikekatell",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
