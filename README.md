@@ -18,7 +18,7 @@ Welcome to the GitHub repository for the Ethics Theme's (Alan Turing Institute) 
 At present, the repository is used to host a collection of guidebooks on the following topics:
 
 - [Responsible Research and Innovation (RRI)](https://turing-commons.netlify.app/rri/index.html)
-- [Public Communication of Science (PCS)](https://turing-commons.netlify.app/pvs/index.html)
+- [Public Communication of Science (PCS)](https://turing-commons.netlify.app/pcs/index.html)
 - [AI Ethics & Governance (AEG)](https://turing-commons.netlify.app/aeg/index.html)
 
 ## Contributors ✨
