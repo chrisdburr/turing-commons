@@ -16,7 +16,7 @@ This site is a living resource, however, which means the content is constantly b
 These guidebooks are themselves being updated and added to, so may be in different states of completeness and readiness. You can access them via the links below, or using the menu on the left.
 
 - [Responsible Research and Innovation (RRI)](rri/index.md)
-  - [Download PDF of Guidebook](_static/rriguidebook-v1-0-0.pdf)
+  - [Download PDF of Guidebook](https://github.com/chrisdburr/turing-commons/blob/master/workshop-docs/pdfs/rri/rriguidebook-v1-0-0.pdf)
 - [Public Engagement and Communication of Science (PCS)](pcs/index.md)
 - [AI Ethics & Governance (AEG)](aeg/index.md)
 - [Citizen's Guide to Data: Ethical, Social and Legal Issues](https://zenodo.org/record/5568861#.YWfmRS8w1hE)
