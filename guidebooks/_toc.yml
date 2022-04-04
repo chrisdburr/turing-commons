@@ -12,7 +12,6 @@ parts:
       - file: rri/chapter2/activity2-1
       - file: rri/chapter2/sts
       - file: rri/chapter2/timeline
-      - file: rri/chapter2/timeline-copy
       - file: rri/chapter2/activity2-2
     - file: rri/chapter3/index
       sections:
@@ -58,6 +57,10 @@ parts:
   - caption: Public Engagement and Communication of Science
     chapters:
     - file: pcs/index
+    - file: pcs/chapter1/index
+      sections:
+      - file: pcs/chapter1/ladder
+      - file: pcs/chapter1/goals
   - caption: AI Ethics and Governance
     chapters:
     - file: aeg/index
