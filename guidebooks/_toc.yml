@@ -61,6 +61,10 @@ parts:
       sections:
       - file: pcs/chapter1/ladder
       - file: pcs/chapter1/goals
+    - file: pcs/chapter2/index
+      sections:
+      - file: pcs/chapter2/deliberation
+      - file: pcs/chapter2/responsible
   - caption: AI Ethics and Governance
     chapters:
     - file: aeg/index
