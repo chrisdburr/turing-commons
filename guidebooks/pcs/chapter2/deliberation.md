@@ -92,8 +92,7 @@ For instance, the priority of ensuring a sufficient sense of urgency on the comp
 It is worth noting, therefore, that the standards and values identified above are *normative ideals*.
 That is, they are *motivational* and *aspirational* principles for good deliberation but may not be obtainable in practice {% cite bachtiger2018 %}.
 
-```{admonition} Values for Additional Forms of Public Engagement (Activity 2.1)
-:class:seealso
+```{seealso} Values for Additional Forms of Public Engagement (Activity 2.1)
 
 We have considered values associated with the goal of democratic deliberation aimed at consensus building and mutual understanding. However, there are other goals for public engagement, as we saw in the previous chapter:
 

@@ -10,7 +10,6 @@ Arnstein visualised her typology as a ladder to signify that the higher rungs re
 In order from lowest to highest, the eight rungs are as follows:
 
 ```{admonition} Arnstein's Ladder of Public Participation
-:class: seealso
 1. Manipulation
 2. Therapy
 3. Informing
