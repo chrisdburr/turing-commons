@@ -2,6 +2,7 @@
 :alt: Illustration by [Johnny Lighthands](https://www.johnnylighthands.co.uk))
 :align: center
 ```
+
 # Welcome
 
 Hello 👋

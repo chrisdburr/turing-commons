@@ -20,7 +20,7 @@ To give just a few examples:
 - Model Cards for Model Reporting
 - Factsheets
 
-When evaluating whether to use or repurposes tools such as these, it is important to consider the context in which you are developing. 
+When evaluating whether to use or repurposes tools such as these, it is important to consider the context in which you are developing.
 A model produced within the context of a publicly-funded research project may have certain disclosure obligations that are not mandatory for models developed in a commercial context.
 Alternatively, it may just be best practice to support reproducibility by considering how your model report adheres to principles such as the FAIR guidelines.
 

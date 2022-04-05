@@ -1,6 +1,6 @@
 # Data Extraction and Procurement
 
-![](../../../images/illustrations/representation.png)
+![An image depicting serveal people and digital avatars with varying levels of fidelity.](../../../images/illustrations/representation.png)
 
 Ideally, the project team should have a clear idea in mind (from the planning and problem formulation stages) of what data are needed prior to collection, extraction, or procurement.
 This can help mitigate risks associated with over-collection of data (e.g. increased privacy or security concerns) and help align the project with values such as *data minimisation* {cite:p}`ico2020`.

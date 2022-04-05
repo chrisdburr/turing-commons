@@ -4,7 +4,7 @@
 
 We saw in the [previous chapter](../chapter2/index.md) how RRI can be defined with reference to concepts that emphasise the need for ethical reflection on possible social harms and benefits, supported by inclusive participation of affected stakeholders.
 Responsible data science and AI shares this emphasis, but can be further refined by considering more specific principles that are geared towards the particular harms and benefits associated with data science and AI.
-These principles can help us identify what is unique to responsible data science and AI. 
+These principles can help us identify what is unique to responsible data science and AI.
 
 ## SAFE-D Principles
 

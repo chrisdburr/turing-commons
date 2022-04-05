@@ -51,6 +51,4 @@ This guidebook has the following learning objectives:
 7. [Developing Case Studies](chapter4/project_design/activity4-2.md)
 8. [Identifying Missing Data](chapter4/project_design/activity4-3.md)
 9. [Designing Model Reports](chapter4/model_development/activity4-4.md)
-10. [Building an Assurance Case](chapter5/activity5-1.md) 
-
--->
+10. [Building an Assurance Case](chapter5/activity5-1.md)

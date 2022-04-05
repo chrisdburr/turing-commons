@@ -6,7 +6,7 @@ We hope that the information provided in this document will make it as easy as p
 
 Primarily, this repository exists to support a series of online courses on the topics of Responsible Research and Innovation (RRI), AI Ethics & Governance (AEG), and Public Communication of Science (PCS). However, you will also find a variety of tools and resources that can be used for whatever purpose you believe they could be useful for.
 
-We welcome all contributions to this project via GitHub issues and pull requests. Please follow these guidelines to make sure your contributions can be easily integrated into the projects. 
+We welcome all contributions to this project via GitHub issues and pull requests. Please follow these guidelines to make sure your contributions can be easily integrated into the projects.
 
 If you have any questions that aren't discussed below, please let us know through one of the many ways to [get in touch](#get-in-touch).
 
@@ -73,6 +73,7 @@ Having each sentence on a new line will make no difference to how the text is di
 Before you open a new issue, please check if any of our [open issues](https://github.com/chrisdburr/turing-commons/issues) cover your idea already.
 If you open a new issue, please follow our basic guidelines laid out in our [issue templates](https://github.com/chrisdburr/turing-commons/issues/new).
 There are 2 issues templates to choose from:
+
 1. General ([preview here](https://github.com/alan-turing-institute/the-turing-way/issues/new?assignees=&template=ISSUE_TEMPLATE.md)):  Use this template for a general issue related to the book, community, process or ideas.
 2. Bug Report ([preview here](https://github.com/alan-turing-institute/the-turing-way/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBUG%5D)): With this template, create an issue report that can help others repair something that is currently broken.
 This can be used for reporting errors like typos and broken links.
@@ -268,7 +269,7 @@ You can see a list of current contributors [here](https://github.com/chrisdburr/
 
 To add yourself or someone else as a contributor, comment on the relevant Issue or Pull Request with the following:
 
-```
+```markdown
 @all-contributors please add <username> for <contributions>
 ```
 
