@@ -126,8 +126,7 @@ There is, ultimately, no simple procedure or algorithm for choosing between valu
 We will explore practical steps and procedures that can help with this often challenging process in later chapters, but the point to keep in mind at present is that in designing engagement activities or carrying out scientific or technological research and development you will always be making a choice between certain values.
 Having an awareness and understanding of these values will at least enable you to do so in an informed and principled manner.
 
-```{admonition} Conflicting Values (Activity 2.2)
-:class:seealso
+```{seealso} Conflicting Values (Activity 2.2)
 
 Add activity about soldier or another moral dilemma that emphasises incommensurable values and the fact that some choices have no single resolution.
 ```

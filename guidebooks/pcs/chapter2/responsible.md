@@ -10,7 +10,7 @@ Beginning with the seventh framework programme in 2010, and continuing on throug
 Since then, other national funding bodies have also shown a commitment to RRI.
 For example, [UKRI's Engineering and Physical Sciences Research Council](https://www.ukri.org/councils/epsrc/) have developed the [AREA framework](https://www.ukri.org/about-us/epsrc/our-policies-and-standards/framework-for-responsible-innovation/), which sets out four principles for RRI: Anticipate, Reflect, Engage, and Act (AREA).
 
-```{admonition}AREA Principles
+```{admonition} AREA Principles
 :class:important
 **Anticipate**
 - Describe and analyse the impacts, intended or otherwise, that might arise. Do not seek to predict but rather support the exploration of possible impacts (such as economic, social and environmental) and implications that may otherwise remain uncovered and little discussed.
