@@ -1,7 +1,7 @@
-```{image} /images/illustrations/ai_2.png
-:alt: Illustration by [Johnny Lighthands](https://www.johnnylighthands.co.uk))
-:align: center
-```
+<video width="80%" autoplay loop muted>
+  <source src="_static/hero.mp4" type="video/mp4"/>
+  Your browser does not support the video tag.
+</video>
 
 # Welcome
 
